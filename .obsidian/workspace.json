@@ -8,14 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66231ea521e03c60",
+            "id": "71c47099efe22785",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "in.co.rohankumarthakur.blog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "674f1b3c7803bffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb979d11b33f946c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3cebb4449c55333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MWB/Curriculum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2efca115331ce79d",
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MWB/Curriculum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MWB/Curriculum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +161,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MWB/Curriculum.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -138,6 +184,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66231ea521e03c60",
-  "lastOpenFiles": []
+  "active": "c3cebb4449c55333",
+  "lastOpenFiles": [
+    "Introduction to React.md",
+    "MWB/Curriculum.md",
+    "MWB",
+    "in.co.rohankumarthakur.blog.md",
+    "README.md",
+    "keys.md",
+    "khushi store/Pages.md",
+    "2023-03-19.md",
+    "Goals.md",
+    "khushi store/Hooks.md",
+    "khushi store/Store.md",
+    "2023-03-09.md",
+    "khushi store/Context.md",
+    "khushi store"
+  ]
 }
