@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71c47099efe22785",
+            "id": "00239e0da7242a8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "674f1b3c7803bffe",
+            "id": "393593a801174d84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb979d11b33f946c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3cebb4449c55333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MWB/Curriculum.md",
+                "file": "MWB/HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,6 +77,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a94a9f11174e9144",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -122,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MWB/Curriculum.md",
+                "file": "MWB/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MWB/Curriculum.md",
+                "file": "MWB/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MWB/Curriculum.md"
+                "file": "MWB/HTML.md"
               }
             }
           }
@@ -184,14 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3cebb4449c55333",
+  "active": "393593a801174d84",
   "lastOpenFiles": [
-    "Introduction to React.md",
+    "MWB/Week 2.md",
+    "MWB/HTML.md",
+    "in.co.rohankumarthakur.blog.md",
+    "WEEK 1.md",
+    "Untitled",
+    "blogs/sse.md",
+    "blogs/Introduction to React.md",
+    "blogs/soda_migrations.md",
+    "blogs/Real Time Updates in Web Applications Implementing HTML SSE with Nodejs.md",
+    "blogs/Easy Database Migration Setup for Go Applications using Soda.md",
+    "blogs",
+    "keys.md",
+    "README.md",
     "MWB/Curriculum.md",
     "MWB",
-    "in.co.rohankumarthakur.blog.md",
-    "README.md",
-    "keys.md",
     "khushi store/Pages.md",
     "2023-03-19.md",
     "Goals.md",
